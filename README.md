@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/Laoode/relicpunk/blob/development/assets/reliquary.png" alt="Reliquary">
+  <img src="https://github.com/Laoode/relicpunk/blob/main/assets/reliquary.png" alt="Reliquary">
 </div>
 
 <p align="center">
